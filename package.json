@@ -1,0 +1,14 @@
+{
+  "name": "discordfortune",
+  "version": "1.0.0",
+  "description": "simple discord bot for fortune-mod",
+  "main": "index.js",
+  "author": "nmalavolti",
+  "license": "do as thou wilt shall be the whole of the law",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "fortunes": "0.0.3",
+    "node-opus": "^0.2.4",
+    "opusscript": "0.0.1"
+  }
+}
